@@ -1,0 +1,31 @@
+Description:
+
+A web-based system to manage student records. Admins can add, update, delete, and view student information.
+
+Features:
+
+ 
+
+Admin login (session-based authentication).
+
+Add students (name, email, course, marks).
+
+Update or delete student records.
+
+View all students in a table with sorting/filtering.
+
+Generate simple reports (like top scorers).
+
+ 
+
+Skills Covered:
+
+ 
+
+CRUD operations with MySQL
+
+Sessions & authentication
+
+Form handling & validation
+
+Data presentation with HTML tables
